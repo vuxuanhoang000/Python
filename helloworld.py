@@ -1,1 +1,1 @@
-print(input()+" hhhh")
+print(input()+" hhhdh")
