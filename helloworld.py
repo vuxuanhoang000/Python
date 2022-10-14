@@ -1,1 +1,1 @@
-print(input()+" hhhgnvvgdgdsfbbdh")
+print(input()+" hhhsdfbgnhbjgnvvgdgdsfbbdh")
